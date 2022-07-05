@@ -1,1 +1,3 @@
 https://github.com/ilia080985/test.git
+
+git status – получить информацию от git о его текущем состоянии
